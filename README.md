@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @amjad2595
+- 👀 I’m an Android Developer
+- 📫 How to reach me ...
